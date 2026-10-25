@@ -402,5 +402,3 @@ Screenshots of the query results are in the `screenshots/` folder.
 
 ## 6. Conclusion
 I learned how to create relational tables with auto-generated primary keys and constraints, link them with foreign keys, and insert parent rows before child rows. I practised retrieving data with SELECT, combining related records with INNER, LEFT and multi-table JOINs, updating records safely with precise WHERE conditions, and changing table structure with ALTER TABLE without losing data.
-
-*AI assistance was used to help prepare this assignment, in line with the course AI policy; I reviewed and can explain every statement.*
